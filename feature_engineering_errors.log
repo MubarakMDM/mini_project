@@ -1,0 +1,4 @@
+2024-10-22 09:41:36,360 - feature_engineering - ERROR - File not found: params.yaml
+2024-10-22 09:41:36,360 - feature_engineering - ERROR - Failed to complete the feature engineering process: [Errno 2] No such file or directory: 'params.yaml'
+2024-10-22 11:50:41,298 - feature_engineering - ERROR - File not found: C:\Mubarak\code campusx\mini project\params.yaml
+2024-10-22 11:50:41,298 - feature_engineering - ERROR - Failed to complete the feature engineering process: [Errno 2] No such file or directory: 'C:\\Mubarak\\code campusx\\mini project\\params.yaml'

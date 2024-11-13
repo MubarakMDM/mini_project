@@ -1,0 +1,2 @@
+2024-10-22 13:10:52,633 - model_evaluation - ERROR - Failed to complete the model evaluation process: [Errno 2] No such file or directory: 'reports/model_info.json'
+2024-10-22 13:34:27,297 - model_evaluation - ERROR - Failed to complete the model evaluation process: [Errno 2] No such file or directory: 'reports/model_info.json'
