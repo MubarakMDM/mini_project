@@ -95,3 +95,6 @@ target/
 /tfidf_vectorizer.pkl
 /experiment_info.json
 miniproj/Scripts/*
+data
+
+miniproj/*
